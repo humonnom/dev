@@ -1,2 +1,2 @@
 # dev
-My website using html, css only.
+Humonnom's dev diary...
