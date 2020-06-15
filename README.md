@@ -1,2 +1,2 @@
 # dev
-Humonnom's dev diary...
+This is humonnom's blog
